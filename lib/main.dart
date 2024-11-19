@@ -35,9 +35,9 @@ void showNotification(String message) async {
   );
 }
 
-
-const double targetLatitude = -23.5505; // substitua pela latitude desejada
-const double targetLongitude = -46.6333; // substitua pela longitude desejada
+ 
+const double targetLatitude = -22.355213662432966; // Fatec
+const double targetLongitude = -47.33401047474316;
 const double geofenceRadius = 100.0; // Raio em metros
 
 void callbackDispatcher() {
